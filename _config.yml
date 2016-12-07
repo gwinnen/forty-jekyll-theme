@@ -31,3 +31,6 @@ twitter_url:
 
 # Build settings
 markdown: kramdown
+
+# Google services
+google-analytics: UA-28488117-2

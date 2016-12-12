@@ -6,7 +6,6 @@ description: A responsive site template used by contra-bit<br /> and released un
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://contra-bit.github.io/forty-jekyll-theme" # the base hostname & protocol for your site
 author: Liam Hurwitz
-street_address: Vionvillestr. 19
 city: Bremen
 state: Bremen
 zip_code: 28211

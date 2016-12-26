@@ -2,7 +2,7 @@
 title: contra-bit
 subtitle: the basic unit against information
 email: liam@contra-bit.com
-description: A responsive site template used by contra-bit<br /> and released under the Creative Commons.
+description: contra-bit is a website dedicated to conform to the integrity of data <br/> simply because information exits, there needs to be a polar opposite
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://contra-bit.github.io/forty-jekyll-theme" # the base hostname & protocol for your site
 author: Liam Hurwitz

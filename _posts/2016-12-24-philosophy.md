@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
-description:
+title: Philosophy
+description: question everything
 image: assets/images/philosophy.jpg
 ---
